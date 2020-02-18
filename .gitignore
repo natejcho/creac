@@ -1,6 +1,4 @@
-node_modules
-.vscode
-package-lock.json
-.prettierrc
 .DS_Store
 .npmrc
+.vscode
+node_modules

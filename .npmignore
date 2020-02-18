@@ -1,1 +1,7 @@
+.DS_Store
+.eslintrc
+.gitignore
+.npmrc
+.prettierrc
+.vscode
 node_modules
