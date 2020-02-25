@@ -12,7 +12,7 @@ It creates **React** component folder structure with one command.<br>
 
 ```sh
 $ npm install --save-dev create-react-component
-$ npx crac myComponent
+$ npx creac myComponent
 ```
 
 _([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://github.com/snaerth/create-react-component-folder/blob/master/docs/npx_instructions.md))_
@@ -28,8 +28,8 @@ $ npm install --save-dev create-react-component
 ## Creating single component
 
 ```sh
-$ npx crac myComponent
-$ npx crac components/myComponent
+$ npx creac myComponent
+$ npx creac components/myComponent
 ```
 
 ## Output single

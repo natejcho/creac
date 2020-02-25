@@ -34,7 +34,7 @@
     "prettier": "^1.19.1"
   },
   "bin": {
-    "crac": "./bin/crac.js"
+    "creac": "./bin/creac.js"
   },
   "dependencies": {
     "chalk": "^3.0.0",
