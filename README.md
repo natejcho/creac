@@ -43,7 +43,6 @@ $ npx creac components/myComponent
 ```sh
 myComponent
 ├── myComponent.js
-├── myComponent.stories.js
 ├── myComponent.spec.js
 ```
 
