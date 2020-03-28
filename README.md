@@ -35,7 +35,7 @@ $ creac components/myComponent
 ## Output single
 
 <p align='center'>
-<img src='https://github.com/natejcho/creac/blob/dev/docs/example.png?raw=true' width='600' />
+<img src='https://github.com/natejcho/creac/blob/dev/docs/creac_example.png?raw=true' width='600' />
 </p>
 
 ## Component folder structure
