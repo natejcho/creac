@@ -1,7 +1,7 @@
 # Create React Component
 
-[![NPM version](https://img.shields.io/npm/v/create-react-component-folder.svg?style=flat)](https://npmjs.com/package/create-react-component-folder)
-[![NPM downloads](https://img.shields.io/npm/dm/create-react-component-folder.svg?style=flat)](https://npmjs.com/package/create-react-component-folder)
+[![NPM version](https://img.shields.io/npm/v/create-react-component-folder.svg?style=flat)](https://www.npmjs.com/package/creac)
+[![NPM downloads](https://img.shields.io/npm/dm/create-react-component-folder.svg?style=flat)](https://npmjs.com/package/creac)
 
 ## About
 
@@ -12,10 +12,10 @@ It creates **React** component folder structure with one command.<br>
 
 ```sh
 $ npm install --save-dev create-react-component
-$ npx crac myComponent
+$ npx creac myComponent
 ```
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://github.com/snaerth/create-react-component-folder/blob/master/docs/npx_instructions.md))_
+_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions]_
 
 ## Tutorial
 
@@ -28,14 +28,14 @@ $ npm install --save-dev create-react-component
 ## Creating single component
 
 ```sh
-$ npx crac myComponent
-$ npx crac components/myComponent
+$ creac myComponent
+$ creac components/myComponent
 ```
 
 ## Output single
 
 <p align='center'>
-<img src='https://github.com/snaerth/create-react-component-folder/blob/master/docs/single2.png?raw=true' width='600' />
+<img src='https://github.com/natejcho/creac/blob/dev/docs/example.png?raw=true' width='600' />
 </p>
 
 ## Component folder structure
@@ -43,7 +43,6 @@ $ npx crac components/myComponent
 ```sh
 myComponent
 ├── myComponent.js
-├── myComponent.stories.js
 ├── myComponent.spec.js
 ```
 
